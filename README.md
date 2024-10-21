@@ -4,4 +4,4 @@ Componentes do grupo:
 
 - Alehannder Moreschi Almeida
 -
--
+- Gabriel Adison Vieira Pereira
